@@ -8,7 +8,7 @@ public class PrintEx01 {
 		 * 
 		 */
 		System.out.print("적고 싶은 말");
-		System.out.print("아무말");
+		System.out.print("아무말"); 
 
 	}
 
