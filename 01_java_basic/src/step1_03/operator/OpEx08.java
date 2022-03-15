@@ -4,9 +4,9 @@ public class OpEx08 {
 	public static void main(String[] args) {
 		int test = 60;
 		
-		System.out.println(test >= 60 ? "합격" : "불합격");
+		System.out.println(test >= 60 ? 10 : 100);
 		
-		char result = test >= 60 ? 'p' : 'f';
+		int result = test >= 60 ? 1 : 2;
 		System.out.println(result);
 	}
 }
